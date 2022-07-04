@@ -6,10 +6,25 @@ body {
     display: flex;
 }
 
-h1 {
+.top-banner h1 {
     font-size: 50px;
+    color: #575757;
 }
 
 .top-banner .orange-color {
     color: orange
+}
+
+.top-banner p {
+    color: dimgray;
+    font-size: 20px;
+}
+
+.top-banner .order-food-btn {
+    background-image: linear-gradient(to right, #FB934A, #FE4C2F);
+    padding: 20px 40px;
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 15px;
 }
