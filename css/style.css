@@ -78,3 +78,8 @@ body {
 .about-me-details {
     margin-left: 20px;
 }
+
+.about-me-details p {
+    font-size: 18px;
+    color: #283434;
+}
