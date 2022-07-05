@@ -4,11 +4,15 @@ body {
 
 .top-banner {
     display: flex;
+    margin-top: 100px;
+    margin-left: 100px;
 }
 
 .top-banner h1 {
-    font-size: 50px;
+    font-size: 58px;
+    font-weight: 900;
     color: #575757;
+    line-height: 40px;
 }
 
 .top-banner .orange-color {
@@ -50,4 +54,9 @@ body {
 .top-banner-bottom-img {
     width: 600px;
 
+}
+
+.banner-section {
+    margin-top: 40px;
+    margin-left: 10px;
 }
