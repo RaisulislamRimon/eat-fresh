@@ -59,6 +59,8 @@ body {
 .about-me {
     display: flex;
     margin: 100px;
+    /* background-image no found
+     background-image: url(../images/shapes/); */
 }
 
 .about-me-img {
@@ -83,4 +85,6 @@ body {
 .about-me-details p {
     font-size: 18px;
     color: #283434;
+    margin-bottom: 110px;
+    line-height: 35px;
 }
