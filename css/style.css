@@ -55,10 +55,19 @@ body {
     margin-left: 10px;
 }
 
-.about-me{
+.about-me {
     display: flex;
+    margin: 100px;
 }
 
 .about-me-img {
-    width: 400px;
+    width: 320px;
+}
+
+.about-me .half-width {
+    width: 40%;
+}
+
+.about-me-details {
+    margin-left: 20px;
 }
