@@ -89,4 +89,10 @@ body {
     line-height: 35px;
 }
 
+.my-recipies {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
 
+.my-recipies-p {}
