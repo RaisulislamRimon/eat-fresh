@@ -65,7 +65,8 @@ body {
 }
 
 .about-me .half-width {
-    width: 40%;
+    /* width: 40%; */
+    width: 47%;
 }
 
 .about-me-details {
