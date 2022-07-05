@@ -54,3 +54,11 @@ body {
     margin-top: 40px;
     margin-left: 10px;
 }
+
+.about-me{
+    display: flex;
+}
+
+.about-me-img {
+    width: 400px;
+}
