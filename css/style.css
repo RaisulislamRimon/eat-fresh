@@ -69,6 +69,12 @@ body {
     width: 47%;
 }
 
+.about-me h2 {
+    font-size: 40px;
+    font-weight: 900;
+    color: dimgray;
+}
+
 .about-me-details {
     margin-left: 20px;
 }
